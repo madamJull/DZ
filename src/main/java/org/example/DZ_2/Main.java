@@ -1,4 +1,4 @@
-package org.example;
+package org.example.DZ_2;
 
 import java.util.Arrays;
 import java.util.Scanner;
